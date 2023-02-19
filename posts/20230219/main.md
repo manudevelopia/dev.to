@@ -1,11 +1,12 @@
 ---
 title: Example article title test test test test
-published: true 
+published: true
 description: A simple test article
 tags: 'productivity, beginners, test'
 cover_image: ./assets/cat.jpg
 canonical_url: null
 id: 1371395
+date: '2023-02-19T09:45:04Z'
 ---
 
 Some random text with a [link](https://code.visualstudio.com).
