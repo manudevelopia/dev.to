@@ -1,6 +1,6 @@
 ---
 title: Example article title test test test test
-published: false 
+published: false
 description: A simple test article
 tags: 'productivity, beginners, test'
 cover_image: ./assets/cat.jpg
