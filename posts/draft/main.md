@@ -7,7 +7,6 @@ cover_image: ./assets/cat.jpg
 canonical_url: null
 id: 1371395
 date: '2025-02-19T09:45:04Z'
-id: 1380007
 ---
 
 Some random text with a [link](https://code.visualstudio.com).
